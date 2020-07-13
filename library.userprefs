@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\scale\scale.cs">
+    <Files>
+      <File FileName="Assets\Code\ChangeScene\toCategory.cs" Line="11" Column="3" />
+      <File FileName="Assets\Code\ChangeScene\fromCategory.cs" Line="27" Column="30" />
+      <File FileName="Assets\Code\categoryAPI.cs" Line="13" Column="21" />
+      <File FileName="Assets\Code\scale\scale.cs" Line="88" Column="29" />
+      <File FileName="Assets\Code\List.cs" Line="56" Column="39" />
+      <File FileName="Assets\Code\scale\scaleList.cs" Line="69" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Windows10\Documents\나희원\대외활동\한이음 프로젝트\유니티스터디\library\Assets\Code\categoryAPI.cs" line="177" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
